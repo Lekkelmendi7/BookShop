@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bWwxfHXPGTDY1LuatoasQ0fd23qyhkPd78EePWzAF7NY8o31WgFqKDTz1e+Gqtp+GMhBbM+/5ir2DUUDf7/QLA==",
+  "dgSpecHash": "QDssdAfh5cmh/saRsWJKhi0zu4AYPMvTaxQELhy8nBPk/DYBw7SfH33EGuP55UJME3+J/3JEqDK0CxMElCY5Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\BookShop.csproj",
+  "projectFilePath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\BookShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lkelmendi.PC-PR05\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\lkelmendi.PC-PR05\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\BookShop.csproj": {}
+    "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\BookShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\BookShop.csproj": {
+    "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\BookShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\BookShop.csproj",
+        "projectUniqueName": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\BookShop.csproj",
         "projectName": "BookShop",
-        "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\BookShop.csproj",
+        "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\BookShop.csproj",
         "packagesPath": "C:\\Users\\lkelmendi.PC-PR05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\obj\\",
+        "outputPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lkelmendi.PC-PR05\\AppData\\Roaming\\NuGet\\NuGet.Config",

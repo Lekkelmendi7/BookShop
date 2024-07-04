@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\",
+  "WorkspaceRootPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\source\\repos\\bookshop\\bookshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\source\\repos\\bookshop\\bookshop\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\source\\repos\\bookshop\\bookshop\\bookshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\bookshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\bookshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -27,10 +35,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T07:49:50.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "BookShop\\Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "BookShop\\Controllers\\HomeController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:48:45.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Models\\Category.cs",
               "RelativeDocumentMoniker": "BookShop\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Models\\Category.cs",
               "RelativeToolTip": "BookShop\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -39,11 +73,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.Production.json",
-              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\appsettings.Production.json",
               "RelativeDocumentMoniker": "BookShop\\appsettings.Production.json",
-              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\appsettings.Production.json",
               "RelativeToolTip": "BookShop\\appsettings.Production.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -51,11 +85,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BookShop.csproj",
-              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\BookShop.csproj",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\BookShop.csproj",
               "RelativeDocumentMoniker": "BookShop\\BookShop.csproj",
-              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\source\\repos\\BookShop\\BookShop\\BookShop.csproj",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\BookShop.csproj",
               "RelativeToolTip": "BookShop\\BookShop.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

@@ -4,11 +4,11 @@ using System.Diagnostics;
 
 namespace BookShop.Controllers
 {
-    public class HomeController : Controller
+    public class CategoryController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<CategoryController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public CategoryController(ILogger<CategoryController> logger)
         {
             _logger = logger;
         }
