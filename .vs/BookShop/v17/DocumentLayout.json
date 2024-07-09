@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3C3AADC-EB05-41D5-9569-62A984E10E5D}|BookShopRazor_Temp\\BookShopRazor_Temp.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshoprazor_temp\\pages\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C3AADC-EB05-41D5-9569-62A984E10E5D}|BookShopRazor_Temp\\BookShopRazor_Temp.csproj|solutionrelative:bookshoprazor_temp\\pages\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3C3AADC-EB05-41D5-9569-62A984E10E5D}|BookShopRazor_Temp\\BookShopRazor_Temp.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshoprazor_temp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C3AADC-EB05-41D5-9569-62A984E10E5D}|BookShopRazor_Temp\\BookShopRazor_Temp.csproj|solutionrelative:bookshoprazor_temp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3C3AADC-EB05-41D5-9569-62A984E10E5D}|BookShopRazor_Temp\\BookShopRazor_Temp.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshoprazor_temp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C3AADC-EB05-41D5-9569-62A984E10E5D}|BookShopRazor_Temp\\BookShopRazor_Temp.csproj|solutionrelative:bookshoprazor_temp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3C3AADC-EB05-41D5-9569-62A984E10E5D}|BookShopRazor_Temp\\BookShopRazor_Temp.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshoprazor_temp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3C3AADC-EB05-41D5-9569-62A984E10E5D}|BookShopRazor_Temp\\BookShopRazor_Temp.csproj|solutionrelative:bookshoprazor_temp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 197,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Notification.cshtml",
-              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "BookShop\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "BookShop\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShopRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "BookShopRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShopRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "BookShopRazor_Temp\\Pages\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T09:30:51.411Z",
+              "WhenOpened": "2024-07-09T09:39:46.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BookShop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BookShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABiAAAA",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShopRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookShopRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShopRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookShopRazor_Temp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T09:20:39.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Category\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BookShop\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Category\\Delete.cshtml",
-              "RelativeToolTip": "BookShop\\Views\\Category\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T08:46:38.451Z",
+              "WhenOpened": "2024-07-09T09:38:16.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BookShop\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BookShop\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAABCAAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShopRazor_Temp\\appsettings.json",
+              "RelativeDocumentMoniker": "BookShopRazor_Temp\\appsettings.json",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShopRazor_Temp\\appsettings.json",
+              "RelativeToolTip": "BookShopRazor_Temp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T06:58:56.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShopRazor_Temp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BookShopRazor_Temp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShopRazor_Temp\\Models\\Category.cs",
+              "RelativeToolTip": "BookShopRazor_Temp\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T08:30:05.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "BookShop\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "BookShop\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T08:28:11.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BookShop\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "BookShop\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T13:32:11.023Z",
+              "WhenOpened": "2024-07-09T06:58:05.282Z",
               "EditorCaption": ""
             }
           ]
