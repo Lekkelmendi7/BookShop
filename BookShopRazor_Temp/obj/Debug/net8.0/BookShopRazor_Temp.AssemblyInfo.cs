@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookShopRazor_Temp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0788dbfa150a639a59841ada41140889a5a15a23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4bbb3283f6ee1103edc7344a284f058f6386e15")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookShopRazor_Temp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookShopRazor_Temp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
