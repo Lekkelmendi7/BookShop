@@ -1593,6 +1593,42 @@
             "rid": "win"
           }
         }
+      },
+      "Bookshop.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BookShop.Models": "1.0.0",
+          "BookShop.Utility": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6"
+        },
+        "compile": {
+          "bin/placeholder/Bookshop.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bookshop.DataAccess.dll": {}
+        }
+      },
+      "BookShop.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BookShop.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookShop.Models.dll": {}
+        }
+      },
+      "BookShop.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BookShop.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookShop.Utility.dll": {}
+        }
       }
     }
   },
@@ -4255,10 +4291,27 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Bookshop.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Bookshop.DataAccess/Bookshop.DataAccess.csproj",
+      "msbuildProject": "../Bookshop.DataAccess/Bookshop.DataAccess.csproj"
+    },
+    "BookShop.Models/1.0.0": {
+      "type": "project",
+      "path": "../BookShop.Models/BookShop.Models.csproj",
+      "msbuildProject": "../BookShop.Models/BookShop.Models.csproj"
+    },
+    "BookShop.Utility/1.0.0": {
+      "type": "project",
+      "path": "../BookShop.Utility/BookShop.Utility.csproj",
+      "msbuildProject": "../BookShop.Utility/BookShop.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BookShop.Models >= 1.0.0",
+      "Bookshop.DataAccess >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer.HierarchyId >= 8.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.6"
@@ -4290,7 +4343,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj"
+            },
+            "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Models\\BookShop.Models.csproj": {
+              "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Models\\BookShop.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

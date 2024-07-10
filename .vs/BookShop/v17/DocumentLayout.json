@@ -1,12 +1,117 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\Bookshop.DataAccess.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop.dataaccess\\migrations\\20240704080752_seedcateogrytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\Bookshop.DataAccess.csproj|solutionrelative:bookshop.dataaccess\\migrations\\20240704080752_seedcateogrytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\Bookshop.DataAccess.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop.dataaccess\\migrations\\20240704073054_categoriestodbb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\Bookshop.DataAccess.csproj|solutionrelative:bookshop.dataaccess\\migrations\\20240704073054_categoriestodbb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\Bookshop.DataAccess.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop.dataaccess\\migrations\\20240704073004_categoriestodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\Bookshop.DataAccess.csproj|solutionrelative:bookshop.dataaccess\\migrations\\20240704073004_categoriestodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\Bookshop.DataAccess.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop.dataaccess\\bookshop.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\Bookshop.DataAccess.csproj|solutionrelative:bookshop.dataaccess\\bookshop.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8147F04-2009-477A-8E91-FDA22348D557}|BookShop.Utility\\BookShop.Utility.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8147F04-2009-477A-8E91-FDA22348D557}|BookShop.Utility\\BookShop.Utility.csproj|solutionrelative:bookshop.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\lkelmendi.pc-pr05\\desktop\\bookshop\\bookshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240704080752_SeedCateogryTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Migrations\\20240704080752_SeedCateogryTable.Designer.cs",
+              "RelativeDocumentMoniker": "Bookshop.DataAccess\\Migrations\\20240704080752_SeedCateogryTable.Designer.cs",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Migrations\\20240704080752_SeedCateogryTable.Designer.cs",
+              "RelativeToolTip": "Bookshop.DataAccess\\Migrations\\20240704080752_SeedCateogryTable.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:50:01.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240704073054_CategoriesToDbb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Migrations\\20240704073054_CategoriesToDbb.Designer.cs",
+              "RelativeDocumentMoniker": "Bookshop.DataAccess\\Migrations\\20240704073054_CategoriesToDbb.Designer.cs",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Migrations\\20240704073054_CategoriesToDbb.Designer.cs",
+              "RelativeToolTip": "Bookshop.DataAccess\\Migrations\\20240704073054_CategoriesToDbb.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:49:49.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240704073004_CategoriesToDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Migrations\\20240704073004_CategoriesToDb.Designer.cs",
+              "RelativeDocumentMoniker": "Bookshop.DataAccess\\Migrations\\20240704073004_CategoriesToDb.Designer.cs",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Migrations\\20240704073004_CategoriesToDb.Designer.cs",
+              "RelativeToolTip": "Bookshop.DataAccess\\Migrations\\20240704073004_CategoriesToDb.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:49:33.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bookshop.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Bookshop.DataAccess\\Bookshop.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj",
+              "RelativeToolTip": "Bookshop.DataAccess\\Bookshop.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T08:31:20.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T08:30:13.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "BookShop.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Utility\\SD.cs",
+              "RelativeToolTip": "BookShop.Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:11:07.874Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
