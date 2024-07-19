@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\images\\product\\7f3a684c-4282-44d9-b615-cb27251c876d.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\7f3a684c-4282-44d9-b615-cb27251c876d.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\images\\product\\8ddee52d-201e-4fcb-a5ab-37f7a53c542e.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\8ddee52d-201e-4fcb-a5ab-37f7a53c542e.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\images\\product\\caf2035c-350e-481c-8d4b-88d41fd04235.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\caf2035c-350e-481c-8d4b-88d41fd04235.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\images\\product\\e59e0b10-2f03-45a0-9d20-c0c16e777fdb.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\e59e0b10-2f03-45a0-9d20-c0c16e777fdb.jfif"
+    },
+    {
+      "Id": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
