@@ -428,3 +428,11 @@ C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\bin\Debug\net8.0\runtimes\w
 C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\obj\Debug\net8.0\BookShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\lkelmendi.PC-PR05\Desktop\BookShop\BookShop\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
