@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DD6E578vs4a/P4YWhdlnbeOJzo9WUMrxvHALzOb7fMU=",
+  "Hash": "KuIlk/+FIHrgmd1hi6hS3dyYFGGYgUgi5y1ODqYpCQo=",
   "Source": "BookShop",
   "BasePath": "_content/BookShop",
   "Mode": "Default",
@@ -112,25 +112,6 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\7f3a684c-4282-44d9-b615-cb27251c876d.jfif"
     },
     {
-      "Identity": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\images\\product\\8ddee52d-201e-4fcb-a5ab-37f7a53c542e.jfif",
-      "SourceId": "BookShop",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\",
-      "BasePath": "_content/BookShop",
-      "RelativePath": "images/product/8ddee52d-201e-4fcb-a5ab-37f7a53c542e.jfif",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\8ddee52d-201e-4fcb-a5ab-37f7a53c542e.jfif"
-    },
-    {
       "Identity": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\images\\product\\caf2035c-350e-481c-8d4b-88d41fd04235.jfif",
       "SourceId": "BookShop",
       "SourceType": "Discovered",
@@ -148,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\caf2035c-350e-481c-8d4b-88d41fd04235.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\images\\product\\d81ea66a-f6b1-4312-a5f9-de69f32ff522.jfif",
+      "SourceId": "BookShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\",
+      "BasePath": "_content/BookShop",
+      "RelativePath": "images/product/d81ea66a-f6b1-4312-a5f9-de69f32ff522.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\d81ea66a-f6b1-4312-a5f9-de69f32ff522.jfif"
     },
     {
       "Identity": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\wwwroot\\images\\product\\e59e0b10-2f03-45a0-9d20-c0c16e777fdb.jfif",
