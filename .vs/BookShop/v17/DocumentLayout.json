@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8147F04-2009-477A-8E91-FDA22348D557}|BookShop.Utility\\BookShop.Utility.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8147F04-2009-477A-8E91-FDA22348D557}|BookShop.Utility\\BookShop.Utility.csproj|solutionrelative:bookshop.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8147F04-2009-477A-8E91-FDA22348D557}|BookShop.Utility\\BookShop.Utility.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8147F04-2009-477A-8E91-FDA22348D557}|BookShop.Utility\\BookShop.Utility.csproj|solutionrelative:bookshop.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 197,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Utility\\SD.cs",
-              "RelativeDocumentMoniker": "BookShop.Utility\\SD.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Utility\\SD.cs",
-              "RelativeToolTip": "BookShop.Utility\\SD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:10:11.432Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\Program.cs",
               "RelativeDocumentMoniker": "BookShop\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\Program.cs",
               "RelativeToolTip": "BookShop\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:07:20.988Z",
+              "WhenOpened": "2024-09-24T20:40:16.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Utility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "BookShop.Utility\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Utility\\EmailSender.cs",
+              "RelativeToolTip": "BookShop.Utility\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:23:11.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "BookShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "BookShop\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAwwHAAAAAAAAAA",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAgwJ4AAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T19:54:25.389Z",
               "EditorCaption": ""
