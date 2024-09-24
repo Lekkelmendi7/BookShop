@@ -1,4 +1,4 @@
-using Bookshop.DataAccess.Repository.IRepository;
+using BookShop.DataAccess.Repository.IRepository;
 using BookShop.DataAccess.Data;
 using BookShop.Models;
 using BookShop.Models.ViewModels;

@@ -1,4 +1,4 @@
-﻿using Bookshop.DataAccess.Repository.IRepository;
+﻿using BookShop.DataAccess.Repository.IRepository;
 using BookShop.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -23,10 +23,10 @@ namespace BookShop.Areas.Customer.Controllers
             return View(productList);
         }
 
-        public IActionResult Details (int id)
+        public IActionResult Details(int productId)
         {
-            Product product = _unitOfWork.Product.Get(u => u.Id == id, includeProperties: "Category");
-            return View(product);   
+            Product product = _unitOfWork.Product.Get(u => u.Id == productId, includeProperties: "Category");
+            return View(product);
         }
 
         public IActionResult Privacy()

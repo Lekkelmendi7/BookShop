@@ -1,4 +1,4 @@
-using Bookshop.DataAccess.Repository.IRepository;
+using BookShop.DataAccess.Repository.IRepository;
 using BookShop.Models;
 using Microsoft.AspNetCore.Mvc;
 

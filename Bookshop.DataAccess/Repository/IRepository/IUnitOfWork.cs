@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bookshop.DataAccess.Repository.IRepository
+namespace BookShop.DataAccess.Repository.IRepository
 {
     public interface IUnitOfWork
     {

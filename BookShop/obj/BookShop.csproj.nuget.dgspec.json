@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\BookShop.csproj": {}
+    "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj": {
+    "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj",
         "projectName": "Bookshop.DataAccess",
-        "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\lkelmendi.PC-PR05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lkelmendi.PC-PR05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +22,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Models\\BookShop.Models.csproj": {
-                "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Models\\BookShop.Models.csproj"
+              "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Models\\BookShop.Models.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Models\\BookShop.Models.csproj"
               },
-              "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Utility\\BookShop.Utility.csproj": {
-                "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Utility\\BookShop.Utility.csproj"
+              "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Utility\\BookShop.Utility.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Utility\\BookShop.Utility.csproj"
               }
             }
           }
@@ -52,19 +53,31 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.8, )"
             }
           },
           "imports": [
@@ -83,21 +96,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Models\\BookShop.Models.csproj": {
+    "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Models\\BookShop.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Models\\BookShop.Models.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Models\\BookShop.Models.csproj",
         "projectName": "BookShop.Models",
-        "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Models\\BookShop.Models.csproj",
-        "packagesPath": "C:\\Users\\lkelmendi.PC-PR05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Models\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Models\\BookShop.Models.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lkelmendi.PC-PR05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,6 +118,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -128,17 +142,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Core": {
-              "target": "Package",
-              "version": "[2.2.5, )"
-            },
             "Microsoft.AspNetCore.Mvc.ViewFeatures": {
               "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.Extensions.Identity.Stores": {
-              "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[2.1.3, )"
             }
           },
           "imports": [
@@ -153,28 +159,25 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Utility\\BookShop.Utility.csproj": {
+    "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Utility\\BookShop.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Utility\\BookShop.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Utility\\BookShop.Utility.csproj",
         "projectName": "BookShop.Utility",
-        "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Utility\\BookShop.Utility.csproj",
-        "packagesPath": "C:\\Users\\lkelmendi.PC-PR05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Utility\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Utility\\BookShop.Utility.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lkelmendi.PC-PR05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -182,6 +185,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -220,21 +224,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\BookShop.csproj": {
+    "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\BookShop.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop.csproj",
         "projectName": "BookShop",
-        "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\BookShop.csproj",
-        "packagesPath": "C:\\Users\\lkelmendi.PC-PR05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lkelmendi.PC-PR05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -242,17 +246,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj"
-              },
-              "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Models\\BookShop.Models.csproj": {
-                "projectPath": "C:\\Users\\lkelmendi.PC-PR05\\Desktop\\BookShop\\BookShop.Models\\BookShop.Models.csproj"
+              "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.DataAccess\\BookShop.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.DataAccess\\BookShop.DataAccess.csproj"
               }
             }
           }
@@ -272,23 +274,35 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.8, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer.HierarchyId": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.5, )"
             }
           },
           "imports": [
@@ -310,7 +324,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

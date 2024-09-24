@@ -1,4 +1,4 @@
-﻿using Bookshop.DataAccess.Repository.IRepository;
+﻿using BookShop.DataAccess.Repository.IRepository;
 using BookShop.DataAccess.Data;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bookshop.DataAccess.Repository
+namespace BookShop.DataAccess.Repository
 {
     public class UnitOfWork : IUnitOfWork
     {

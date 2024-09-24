@@ -1,14 +1,18 @@
-using Bookshop.DataAccess.Repository;
-using Bookshop.DataAccess.Repository.IRepository;
-using BookShop.DataAccess.Data;
+
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using BookShop.DataAccess.Data;
+using BookShop.DataAccess.Repository.IRepository;
+using BookShop.DataAccess.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<ApplicationDbContext>(options => 
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<ApplicationDbContext>();
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
@@ -26,7 +30,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

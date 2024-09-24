@@ -1,4 +1,4 @@
-﻿using Bookshop.DataAccess.Repository.IRepository;
+﻿using BookShop.DataAccess.Repository.IRepository;
 using BookShop.DataAccess.Data;
 using BookShop.Models;
 using System;
@@ -8,7 +8,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bookshop.DataAccess.Repository
+namespace BookShop.DataAccess.Repository
 {
     public class CategoryRepository : Repository<Category>, ICategoryRepository
     {
