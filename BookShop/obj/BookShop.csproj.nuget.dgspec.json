@@ -4,12 +4,12 @@
     "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj": {
+    "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\BookShop.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj",
-        "projectName": "Bookshop.DataAccess",
-        "projectPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Bookshop.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\BookShop.DataAccess.csproj",
+        "projectName": "BookShop.DataAccess",
+        "projectPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\BookShop.DataAccess.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\obj\\",
         "projectStyle": "PackageReference",

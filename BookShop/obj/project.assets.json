@@ -4849,7 +4849,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Bookshop.DataAccess/1.0.0": {
+      "BookShop.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -4862,10 +4862,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
         },
         "compile": {
-          "bin/placeholder/Bookshop.DataAccess.dll": {}
+          "bin/placeholder/BookShop.DataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bookshop.DataAccess.dll": {}
+          "bin/placeholder/BookShop.DataAccess.dll": {}
         }
       },
       "BookShop.Models/1.0.0": {
@@ -13798,10 +13798,10 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Bookshop.DataAccess/1.0.0": {
+    "BookShop.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../Bookshop.DataAccess/Bookshop.DataAccess.csproj",
-      "msbuildProject": "../Bookshop.DataAccess/Bookshop.DataAccess.csproj"
+      "path": "../Bookshop.DataAccess/BookShop.DataAccess.csproj",
+      "msbuildProject": "../Bookshop.DataAccess/BookShop.DataAccess.csproj"
     },
     "BookShop.Models/1.0.0": {
       "type": "project",
@@ -13816,7 +13816,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Bookshop.DataAccess >= 1.0.0",
+      "BookShop.DataAccess >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.8",
       "Microsoft.AspNetCore.Identity.UI >= 8.0.8",
       "Microsoft.EntityFrameworkCore >= 8.0.8",
