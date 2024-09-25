@@ -14,6 +14,7 @@ namespace BookShop.DataAccess.Data
 
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Company> Companies { get; set; }
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }        
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -26,6 +27,40 @@ namespace BookShop.DataAccess.Data
                 new Category { Id = 2, Name = "SciFi", DisplayOrder = 2 },
                 new Category { Id = 3, Name = "History", DisplayOrder = 3 }
                 );
+
+
+            modelBuilder.Entity<Company>().HasData(
+              new Company
+              {
+                  Id = 1,
+                  Name = "Botek",
+                  StreetAddress = "Aktash, rr. Tahir Zajmi, nr. 10",
+                  City = "Prishtine",
+                  PostalCode = "10000",
+                  State = "KS",
+                  PhoneNumber = "+383 44 166 677"
+              },
+              new Company
+              {
+                  Id = 2,
+                  Name = "Librarija Dukagjini",
+                  StreetAddress = "Qendra Zejtare, rr. Bedri Pejani, nr. 7",
+                  City = "Peje",
+                  PostalCode = "30000",
+                  State = "KS",
+                  PhoneNumber = "+383 44 190 721"
+              },
+              new Company
+              {
+                  Id = 3,
+                  Name = "Buzuku",
+                  StreetAddress = "Qendra e Qytetit, rr. Nene Tereza, nr. 14",
+                  City = "Prishtine",
+                  PostalCode = "10000",
+                  State = "KS",
+                  PhoneNumber = "+383 45 460 813"
+              }
+              );
 
             modelBuilder.Entity<Product>().HasData(
                 new Product

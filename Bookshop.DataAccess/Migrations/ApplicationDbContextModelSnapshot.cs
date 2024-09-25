@@ -63,6 +63,70 @@ namespace BookShop.DataAccess.Migrations
                         });
                 });
 
+            modelBuilder.Entity("BookShop.Models.Company", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("City")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhoneNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PostalCode")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("State")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("StreetAddress")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Companies");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            City = "Prishtine",
+                            Name = "Botek",
+                            PhoneNumber = "+383 44 166 677",
+                            PostalCode = "10000",
+                            State = "KS",
+                            StreetAddress = "Aktash, rr. Tahir Zajmi, nr. 10"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            City = "Peje",
+                            Name = "Librarija Dukagjini",
+                            PhoneNumber = "+383 44 190 721",
+                            PostalCode = "30000",
+                            State = "KS",
+                            StreetAddress = "Qendra Zejtare, rr. Bedri Pejani, nr. 7"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            City = "Prishtine",
+                            Name = "Buzuku",
+                            PhoneNumber = "+383 45 460 813",
+                            PostalCode = "10000",
+                            State = "KS",
+                            StreetAddress = "Qendra e Qytetit, rr. Nene Tereza, nr. 14"
+                        });
+                });
+
             modelBuilder.Entity("BookShop.Models.Product", b =>
                 {
                     b.Property<int>("Id")
@@ -353,12 +417,10 @@ namespace BookShop.DataAccess.Migrations
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderKey")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderDisplayName")
                         .HasColumnType("nvarchar(max)");
@@ -395,12 +457,10 @@ namespace BookShop.DataAccess.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Name")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Value")
                         .HasColumnType("nvarchar(max)");
@@ -417,8 +477,9 @@ namespace BookShop.DataAccess.Migrations
                     b.Property<string>("City")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Name")
-                        .HasColumnType("int");
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PostalCode")
                         .HasColumnType("nvarchar(max)");
