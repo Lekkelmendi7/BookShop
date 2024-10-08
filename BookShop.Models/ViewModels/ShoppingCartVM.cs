@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace BookShop.Models.ViewModels
 {
-        public class ShoppingCartVM
-        {
-            public IEnumerable<ShoppingCart> ShoppingCartList { get; set; }
+    public class ShoppingCartVM
+    {
+        public IEnumerable<ShoppingCart> ShoppingCartList { get; set; }
 
-            public double OrderTotal { get; set; }
-        }
+        public double OrderTotal { get; set; }
     }
+}

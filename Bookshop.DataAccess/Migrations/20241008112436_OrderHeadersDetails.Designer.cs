@@ -4,6 +4,7 @@ using BookShop.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BookShop.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241008112436_OrderHeadersDetails")]
+    partial class OrderHeadersDetails
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -127,7 +130,7 @@ namespace BookShop.DataAccess.Migrations
                         });
                 });
 
-            modelBuilder.Entity("BookShop.Models.OrderDetail", b =>
+            modelBuilder.Entity("BookShop.Models.OrderDetails", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -627,7 +630,7 @@ namespace BookShop.DataAccess.Migrations
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });
 
-            modelBuilder.Entity("BookShop.Models.OrderDetail", b =>
+            modelBuilder.Entity("BookShop.Models.OrderDetails", b =>
                 {
                     b.HasOne("BookShop.Models.OrderHeader", "OrderHeader")
                         .WithMany()
