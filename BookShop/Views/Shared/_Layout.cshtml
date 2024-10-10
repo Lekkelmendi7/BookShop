@@ -1,5 +1,4 @@
-﻿
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -29,7 +28,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="Customer" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link" asp-area="Admin" asp-controller="Order" asp-action="Index">Manage Order</a>
                         </li>
                         @*@if (User.IsInRole(SD.Role_Admin))
                         {*@
@@ -72,7 +71,7 @@
 
     <footer class="border-top footer bg-primary text-muted ">
         <div class="text-center">
-            Made by <b>Lekë Kelmendi</b>
+            Created by <b>Lekë Kelmendi</b>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
