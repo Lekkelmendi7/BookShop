@@ -1,6 +1,7 @@
 ﻿
 using BookShop.DataAccess.Repository.IRepository;
 using BookShop.Models;
+using BookShop.Models.ViewModels;
 using BookShop.Utility;
 using Microsoft.AspNetCore.Mvc;
 
@@ -21,6 +22,18 @@ namespace BookShop.Areas.Admin.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+
+
+        public IActionResult Details(int orderId)
+        {
+            OrderVM orderVM = new()
+            {
+                OrderHeader = _unitOfWork.OrderHeader.Get(u => u.Id == orderId, includeProperties: "ApplicationUser"),
+                OrderDetail = _unitOfWork.OrderDetail.GetAll(u => u.OrderHeaderId == orderId, includeProperties: "Product")
+            };
+
+            return View(orderVM);   
         }
 
 
