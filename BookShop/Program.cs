@@ -7,6 +7,8 @@ using BookShop.DataAccess.Repository;
 using BookShop.Utility;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Stripe;
+using Microsoft.EntityFrameworkCore.Internal;
+using BookShop.DataAccess.DbInitializer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -37,6 +39,7 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
+builder.Services.AddScoped<IDbInitializer, DbInitializer>();    
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IEmailSender, EmailSender>();
@@ -57,9 +60,19 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseSession();
+SeedDatabase();
 app.MapRazorPages();
 app.MapControllerRoute(
     name: "default",
     pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+void SeedDatabase()
+{
+    using(var scope = app.Services.CreateScope())
+    {
+        var dbInitializer =  scope.ServiceProvider.GetRequiredService<IDbInitializer>();
+        dbInitializer.Initialize(); 
+    }
+}
