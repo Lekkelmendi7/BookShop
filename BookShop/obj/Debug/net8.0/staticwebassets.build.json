@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "odWl0i1AckQsISs0g1vRFtrnv+FB2Ut3kJEsTfEpXH4=",
+  "Hash": "YRwqeALu4pRlRFoxFlXnl09M5T8ke6kCpKStpSKDRNE=",
   "Source": "BookShop",
   "BasePath": "_content/BookShop",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\images\\book.jpg",
+      "SourceId": "BookShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\",
+      "BasePath": "_content/BookShop",
+      "RelativePath": "images/book.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\book.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\images\\book.png",

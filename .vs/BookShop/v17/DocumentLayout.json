@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\BookShop.DataAccess.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\BookShop.DataAccess.csproj|solutionrelative:bookshop.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\BookShop.DataAccess.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D27E25-ACDF-4466-B062-E6CC3C7EEA81}|Bookshop.DataAccess\\BookShop.DataAccess.csproj|solutionrelative:bookshop.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "BookShop\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\appsettings.Production.json",
+              "RelativeToolTip": "BookShop\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T21:13:28.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\DbInitializer\\DbInitializer.cs",
               "RelativeDocumentMoniker": "Bookshop.DataAccess\\DbInitializer\\DbInitializer.cs",
@@ -38,8 +59,7 @@
               "RelativeToolTip": "Bookshop.DataAccess\\DbInitializer\\DbInitializer.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAQwEMAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T12:59:32.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T12:59:32.373Z"
             },
             {
               "$type": "Document",
@@ -49,10 +69,22 @@
               "RelativeDocumentMoniker": "BookShop\\appsettings.json",
               "ToolTip": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\appsettings.json",
               "RelativeToolTip": "BookShop\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-31T12:59:09.352Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T19:28:25.752Z"
             }
           ]
         }
