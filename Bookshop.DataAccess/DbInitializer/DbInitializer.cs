@@ -63,7 +63,7 @@ namespace BookShop.DataAccess.DbInitializer
                     PhoneNumber = "044 153 106",
                     StreetAddress = "Taslixhe, rr. Abdyl Rama, nr. 34",
                     State = "US",
-                    PostalCode = "40000",
+                    PostalCode = "234234",
                     City = "New York City"
                 }, "Leka8115588!").GetAwaiter().GetResult();
 
