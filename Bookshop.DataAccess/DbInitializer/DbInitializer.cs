@@ -1,4 +1,4 @@
-﻿using BookShop.DataAccess.Data;
+using BookShop.DataAccess.Data;
 using BookShop.Models;
 using BookShop.Utility;
 using Microsoft.AspNetCore.Identity;
@@ -57,18 +57,18 @@ namespace BookShop.DataAccess.DbInitializer
                 //if roles are not created, then we will create admin user as well
                 _userManager.CreateAsync(new ApplicationUser
                 {
-                    UserName = "lek.kelmendi007",
-                    Email = "lek.kelmendi8@gmail.com",
+                    UserName = "lekke.kelmendi18@gmail.com",
+                    Email = "lekke.kelmendi18@gmail.com",
                     Name = "Lekë Kelmendi",
-                    PhoneNumber = "033 153 106",
+                    PhoneNumber = "044 153 106",
                     StreetAddress = "Taslixhe, rr. Abdyl Rama, nr. 34",
-                    State = "KS",
-                    PostalCode = "10000",
-                    City = "Prishtine"
-                }, "Admin123*").GetAwaiter().GetResult();
+                    State = "US",
+                    PostalCode = "40000",
+                    City = "New York City"
+                }, "Leka8115588!").GetAwaiter().GetResult();
 
 
-                ApplicationUser user = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "lek.kelmendi8@gmail.com");
+                ApplicationUser user = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "lekke.kelmendi18@gmail.com");
                 _userManager.AddToRoleAsync(user, SD.Role_Admin).GetAwaiter().GetResult();
 
             }
