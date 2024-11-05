@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YRwqeALu4pRlRFoxFlXnl09M5T8ke6kCpKStpSKDRNE=",
+  "Hash": "nvC033FDTBv47tu/2LUrDzSHxEYvVWOUkv+wjtOzJA0=",
   "Source": "BookShop",
   "BasePath": "_content/BookShop",
   "Mode": "Default",
@@ -1516,6 +1516,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\js\\user.js",
+      "SourceId": "BookShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\",
+      "BasePath": "_content/BookShop",
+      "RelativePath": "js/user.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\user.js"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
