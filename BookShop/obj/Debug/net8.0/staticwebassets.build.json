@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lajDCW5Aa78m2PS2pGOdEy/fMGjKuDM2VTINZBSsd20=",
+  "Hash": "J3YRjECZB5aJgOZ8GtuCEbzY3Px15hER2xx/P9MiaYU=",
   "Source": "BookShop",
   "BasePath": "_content/BookShop",
   "Mode": "Default",
@@ -1516,6 +1516,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\e59e0b10-2f03-45a0-9d20-c0c16e777fdb.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\images\\products\\product-6\\2cf1e672-069b-4251-9086-a4972a357b8f.jpg",
+      "SourceId": "BookShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\",
+      "BasePath": "_content/BookShop",
+      "RelativePath": "images/products/product-6/2cf1e672-069b-4251-9086-a4972a357b8f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-6\\2cf1e672-069b-4251-9086-a4972a357b8f.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\js\\company.js",

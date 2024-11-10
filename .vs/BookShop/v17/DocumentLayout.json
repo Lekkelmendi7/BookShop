@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|c:\\users\\user\\desktop\\bookshop\\bookshop\\bookshop\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C543EDF6-D53D-48F0-AB5A-B03B837ECB21}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -50,8 +54,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 197,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T21:22:46.929Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -62,33 +79,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Bookshop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeToolTip": "Bookshop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA/wBMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T21:01:29.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Bookshop.DataAccess\\Repository\\UnitOfWork.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Repository\\UnitOfWork.cs",
               "RelativeToolTip": "Bookshop.DataAccess\\Repository\\UnitOfWork.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwCcAAAAFAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T21:00:50.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Upsert.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
@@ -101,7 +105,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bookshop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Bookshop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA/wBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:01:29.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Bookshop.DataAccess\\Repository\\ProductRepository.cs",
@@ -109,12 +125,11 @@
               "RelativeToolTip": "Bookshop.DataAccess\\Repository\\ProductRepository.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAQwCsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T11:36:21.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T11:36:21.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Bookshop.DataAccess\\Data\\ApplicationDbContext.cs",
@@ -122,12 +137,11 @@
               "RelativeToolTip": "Bookshop.DataAccess\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAIoAAAAAAAAAAAAcwBUAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T11:35:23.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T11:35:23.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\Areas\\Customer\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BookShop\\Areas\\Customer\\Views\\Home\\Index.cshtml",
@@ -135,12 +149,11 @@
               "RelativeToolTip": "BookShop\\Areas\\Customer\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T11:43:03.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T11:43:03.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Models\\Product.cs",
               "RelativeDocumentMoniker": "BookShop.Models\\Product.cs",
@@ -148,12 +161,11 @@
               "RelativeToolTip": "BookShop.Models\\Product.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAQwCwAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T11:36:58.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T11:36:58.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop.Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "BookShop.Models\\ProductImage.cs",
@@ -161,12 +173,11 @@
               "RelativeToolTip": "BookShop.Models\\ProductImage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T20:39:03.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T20:39:03.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ApplicationUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Repository\\ApplicationUserRepository.cs",
               "RelativeDocumentMoniker": "Bookshop.DataAccess\\Repository\\ApplicationUserRepository.cs",
@@ -178,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "20241105212146_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\Bookshop.DataAccess\\Migrations\\20241105212146_InitialCreate.cs",
               "RelativeDocumentMoniker": "Bookshop.DataAccess\\Migrations\\20241105212146_InitialCreate.cs",
