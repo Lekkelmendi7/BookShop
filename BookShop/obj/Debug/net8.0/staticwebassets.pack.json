@@ -25,8 +25,20 @@
       "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\images\\product\\08784429-174e-4826-a885-3a622baba60d.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\08784429-174e-4826-a885-3a622baba60d.jpeg"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\images\\product\\152beaf3-88fc-4098-87b9-e7c6582f0b6a.jpg",
       "PackagePath": "staticwebassets\\images\\product\\152beaf3-88fc-4098-87b9-e7c6582f0b6a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\images\\product\\3cbbe28b-bc74-4bdf-9141-96e5db8c4689.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3cbbe28b-bc74-4bdf-9141-96e5db8c4689.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\images\\product\\6dfcb5d9-becc-4e37-8097-f49d02658e53.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6dfcb5d9-becc-4e37-8097-f49d02658e53.jpg"
     },
     {
       "Id": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\images\\product\\7f3a684c-4282-44d9-b615-cb27251c876d.jfif",
@@ -47,6 +59,10 @@
     {
       "Id": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\images\\product\\ce94a63c-8985-4d12-bac1-50e3fb5c2395.jpeg",
       "PackagePath": "staticwebassets\\images\\product\\ce94a63c-8985-4d12-bac1-50e3fb5c2395.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\images\\product\\cf918ab1-4c60-401d-86e4-16bd3b3ee9ec.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\cf918ab1-4c60-401d-86e4-16bd3b3ee9ec.jpeg"
     },
     {
       "Id": "C:\\Users\\User\\Desktop\\BookShop\\BookShop\\BookShop\\wwwroot\\images\\product\\d81ea66a-f6b1-4312-a5f9-de69f32ff522.jfif",
