@@ -61,7 +61,7 @@ User Shipping Input: During checkout, users can enter and manage their shipping 
 Admin Management: Admins oversee shipping details to ensure orders are dispatched accurately and promptly.
 
 9. Order and Inventory Management
-10. 
+   
 Real-Time Order Tracking: Employees and Admins can track order statuses in real-time, ensuring transparency throughout the purchasing process.
 Inventory Updates: As items are sold, the system updates inventory automatically, preventing stock shortages and enabling accurate order processing.
 
