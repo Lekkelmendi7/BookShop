@@ -76,6 +76,8 @@ Database: MSSQL is used to manage data persistence and supporting complex querie
 
 Photos of the project:
 
+![Register - Bookshop](https://github.com/user-attachments/assets/7532b938-bbfd-4bbf-8dc3-278c4e192e27)
+![Faqja kryesore e bookshop](https://github.com/user-attachments/assets/6d8c4c1e-b02d-43a2-b44b-75d716684fa3)
 ![Screenshot 2024-11-13 223827](https://github.com/user-attachments/assets/2007055b-f4b2-4e34-bd88-9517d0c8efbc)
 ![Screenshot 2024-11-13 223813](https://github.com/user-attachments/assets/0af3cfac-91a4-4e9a-8ec2-ff873cb05631)
 ![Screenshot 2024-11-13 223735](https://github.com/user-attachments/assets/ca48e8c9-4655-4447-a6d4-87a8977c7db8)
@@ -96,8 +98,6 @@ Photos of the project:
 ![Screenshot 2024-11-13 222726](https://github.com/user-attachments/assets/cf14fa2b-cfc0-4577-b2d0-9036cbe60c60)
 ![Screenshot 2024-11-13 222325](https://github.com/user-attachments/assets/889d2427-ac19-4be9-b5ef-fa4d8d75c06e)
 ![Screenshot 2024-11-13 222230](https://github.com/user-attachments/assets/7c821006-2d2e-46b2-bda8-8c68ef2ce4c7)
-![Register - Bookshop](https://github.com/user-attachments/assets/7532b938-bbfd-4bbf-8dc3-278c4e192e27)
-![Faqja kryesore e bookshop](https://github.com/user-attachments/assets/6d8c4c1e-b02d-43a2-b44b-75d716684fa3)
 ![Screenshot 2024-11-13 225139](https://github.com/user-attachments/assets/9ace8598-c6e6-4727-b03d-980905250be4)
 ![Screenshot 2024-11-13 225123](https://github.com/user-attachments/assets/56a15f16-08da-4fdf-b386-b7998e28b57d)
 ![Screenshot 2024-11-13 225114](https://github.com/user-attachments/assets/a807cc92-427b-49ce-b2ed-a4ce245a9735)
