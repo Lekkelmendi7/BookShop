@@ -1,4 +1,6 @@
+
 Bookshop App
+
 This Bookshop App is a full-featured e-commerce web application designed for online book sales. Developed with .NET MVC and Razor Pages, it delivers a comprehensive online shopping experience. Users can browse books, make secure online payments, and track their orders, while administrators manage inventory, order fulfillment, and user roles. This application offers robust features for both customers and admin roles, ensuring an efficient and user-friendly shopping environment.
 
 Features:
